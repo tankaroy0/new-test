@@ -1,1 +1,1 @@
-print("tanka")
+print("tanka (with old thing)")
