@@ -28,7 +28,7 @@ int main() {
     }
 
     printf("Enter the operation (+, -, *, /): ");
-    // Skip any whitespace before reading the operator
+    
     do {
         op = getchar();
     } while (op == ' ' || op == '\n' || op == '\t');
